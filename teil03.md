@@ -142,4 +142,19 @@ Friedrich
 :	– den Westerwald haben die Amerikaner gesagt, den brauchen wir nicht, und auch nicht so die Eifel, dann haben sie das den Franzosen überlassen.
 
 Käthe
-:	Und in der Bess ihrem Wohnzimmer wurde ein Nagel an die Wand gekloppt, und eine Kordel genommen und da haben wir unsere ganze Garderobe, unser ganzes Hab und Gut drangehängt. Und ein Bettlaken, wir haben einiges von der Ev-Tante gekriegt. Weil wir ja garnix hatten. 21:32
+:	Und in der Bess ihrem Wohnzimmer wurde ein Nagel an die Wand gekloppt, und eine Kordel genommen und da haben wir unsere ganze Garderobe, unser ganzes Hab und Gut drangehängt. Und ein Bettlaken, wir haben einiges von der Ev-Tante gekriegt. Weil wir ja garnix hatten. Von der Ev-Tante […] Bettlaken drüber gehangen, und da waren die Sachen. Und ich hab einige Kleider von der Eva ihre Schwester, die doch verstorben war, bekommen. Dadurch hatte ich da ein paar Kleider anzuziehen – ich hab ja auch nichts gehabt, nicht. Und haben wir einen Bezugsschein gekriegt für ein paar Schuhe, und dann habe ich Schuhgröße 39 gekriegt, mit dem Bezugsschein. Nicht meine Schuhgröße, dann wurde das halt vorne mit Papier ausgefüllt. Und damit ist die Käthe gelaufen. Und die erste Zeit war ich ja auch bei Buderus gewesen, und dann hat es – bei Buderus gab es so Holzsandalen, mit so einem Leder obendrüber
+
+Ruth
+:	So Klocks oder so?
+
+Käthe
+:	Ja, genau, und da habe ich auch ein paar gekriegt, und da habe ich schon zwei Paar Schuhe gekriegt. Und dann – werde ich nicht vergessen – die erste Zeit, wir sind ja im Sommer gekommen, Herbst war die Kartoffelerntezeit und neben dem Bahnhof, in Dautphe – Wilhelmshütte – war ein Zahnarzt, ich weiß heute nicht mehr wie er hieß, war ein Zahnarzt gewesen, gleich neben dem Bahnhof, rechte Seite –
+
+Ruth
+:	War das der Gnau? Oder war der später?
+
+Käthe
+:	Ich weiß nicht wie der hieß? Und auf jeden Fall, da waren die älteren Herrschaften, und da war der Schwiegersohn und die Tochter, waren vier Personen. Und der hat einen Kartoffelacker gehabt. Und dann – die Hufoma [Sie meint ihre Mutter] ist ja immer bedacht, dass wir was zu essen kriegt, und das man wohin geht, und was tut und essen kriegt, und dann sind wir beide, die Hufoma und ich – der Hans war glaube ich noch gar nicht da – ich weiß es nicht, kann ich jetzt nicht behaupten, war er schon da oder nicht – auf jeden Fall sind wir auf'n Kartoffelacker gegangen, und haben den ganzen Tag Kartoffeln ausgemacht, aufgelesen, wie man halt auf dem Kartoffelacker ist. Und als Abendessen, und als Dank für den ganzen Tag Arbeit haben wir jeder Abends ein Stück Marmeladenbrot gekriegt. Und ich hatte meine guten Schuhe, wo ich soviel Schuhe hatte, die einzigsten noch voller Schlamm und Dreck und dann habe ich zur Oma gesagt: „So, und dafür den ganzen Tag arbeiten, ich gehe da nicht mehr hin.“ Die Oma ist aber noch gegangen. Überleg' dir mal, so waren die Leute. Aber vorher wollte ich nur sagen, wie anständig auch Russen sind, man darf sie nicht über einen – ich habe gute Erfahrungen mit den Russen gemacht, bin mit viel Russe' zusammengekommen, mir ist nie einer unverschämt geworden oder frech geworden oder, wie soll ich sagen, oder einen überfallen hat, oder überhaupt nichts. Anständige Leute, so wie wir auch sind. Die darf man nicht alle sagen. Wenn so eine Kampftruppe kommt, das ist ja ganz was anderes, gell. Aber im Grunde genommen sind das auch gute Menschen.
+
+Ruth
+:	Nicht überall.
