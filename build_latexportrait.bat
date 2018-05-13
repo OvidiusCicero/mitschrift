@@ -1,0 +1,1 @@
+build_latexvorlage 2 portrait nicetitle

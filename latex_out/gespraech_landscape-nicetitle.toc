@@ -1,0 +1,14 @@
+\select@language {german}
+\contentsline {section}{Teil 1 \emph {Anekdoten} (54:55 Minuten)}{1}{section*.2}
+\contentsline {subsection}{0:00}{1}{section*.3}
+\contentsline {subsection}{≈ 9 Minuten}{3}{section*.4}
+\contentsline {subsection}{≈ 19 Minuten}{4}{section*.5}
+\contentsline {subsection}{29:40}{7}{section*.6}
+\contentsline {subsection}{40:21}{8}{section*.7}
+\contentsline {section}{Teil 2 \emph {Krieg} (19:10 Minuten)}{10}{section*.8}
+\contentsline {subsection}{0:00}{10}{section*.9}
+\contentsline {subsection}{5:30}{11}{section*.10}
+\contentsline {subsection}{9:06}{11}{section*.11}
+\contentsline {subsection}{13:06}{12}{section*.12}
+\contentsline {section}{Teil 3 \emph {Vertreibung} (42:33 Minuten)}{13}{section*.13}
+\contentsline {subsection}{0:00}{13}{section*.14}

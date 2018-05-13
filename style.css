@@ -1,0 +1,59 @@
+body {
+max-width: 50em;
+margin: 0 auto;
+padding: 7px;
+font-family: Linux Libertine;
+}
+
+body > header > h1 {
+font-size: 2.em;
+}
+
+body > section h1 {
+font-size: 1.5em;
+}
+
+body > section h2 {
+font-size: 1.25em;
+}
+
+
+dt {
+font-weight: bold;
+float: left;
+display: inline-block;
+/*width: 6em;*/
+margin-right: 1em;
+font-variant: small-caps;
+}
+
+dt::after {
+content: ":";
+}
+
+dd {
+/*text-indent: -4em;*/
+
+}
+
+* {
+text-align: justify;
+hyphens: auto;
+}
+
+:target {
+background: rgb(255,0,0);
+}
+
+li > p {
+margin: 0.3em;
+}
+
+:link.footnote-back {
+margin: 0 1em;
+}
+
+/*
+:link:not(.footnote-ref):not(.footnote-back) {
+margin: 0 1em;
+}*/

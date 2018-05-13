@@ -1,0 +1,1 @@
+pandoc --from=markdown+yaml_metadata_block --to=plain --output=out/gespraech.txt --table-of-contents --self-contained --standalone teil01.md teil02.md teil03.md metadata.yaml
