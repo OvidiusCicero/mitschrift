@@ -66,4 +66,80 @@ Ruth
 :	Und das war, bevor ihr weg seid?
 
 Käthe
-:	Kurz vorher, direkt vorher. Und dann waren wir bei der Ev-Tante drin, bis wir dann weg sind. Von dort aus sind wir dann zusammen weg. 1600
+:	Kurz vorher, direkt vorher. Und dann waren wir bei der Ev-Tante drin, bis wir dann weg sind. Von dort aus sind wir dann zusammen weg. 
+
+[… „Iss auf“]
+
+Käthe
+:	Wir wurden ja aufgelistet, in welchem Waggon und wann die Uhrzeiten mit allem und dann mussten wir da raus und sind dann abgefahren. Bei uns schien die Sonne und war warm, und dann kommen wir nach Dautphe und es regnet, und es ist kalt. Und die Berge! Ach Gott, wo sind wir denn da hingekommen. Das war ein Blick. Scheußlich. Den werde ich nie vergessen.
+
+Ruth
+:	[In etwa: „Zu dieser Zeit war es ja auch nicht allzu schön“]
+
+Käthe
+:	Ja, aja. Und dann sind wir ja da in das, in die Wilhelmshütte [also doch] reingekommen. Und da habe ich die Erika das erste Mal gesehen, wie die Erika als schicke Dame mit schicken Kleidern und schicker Frisur, und wir, nix haben[d], und zerlumpt, Zigeuner kommen kannste [kannst du] denken. Und dann kriegen wir noch, werden da zwangseinquartiert, kann man sich ja auch vorstellen, zu einer Familie, die haben ein Schlafzimmer, ein Wohnzimmer, eine Küche und ein Bad. Und jetzt müssen sie eines abgeben – Wohnzimmer. Und da kommen fremde Leute rein. Zigeuner. Und dann kriegen sie von nebenan, von dem Russenlager, kriegen sie Betten, haben wir drei Betten gehabt, und die sind jetzt noch verwanzt. Morgens, ich voller Stiche am Ober[arm?] – mir sind sie gegangen, am Hansen und der Mutter nicht. [An uns beide sind … – der Vater, vom ersten Weltkrieg, der war ja kurz dabei] und hat gesagt: „Das sind Wanzen.“ Da sind wir gegangen und haben gesagt, wir haben Wanzen. Kannst du denken. Sind die Kammerjäger gekommen und haben wir im Flur, vor der Tür, musste man 
+
+[Weitere Auffordungen zum Konsum der Speisen an Käthe]
+
+Käthe
+:	Und, dann musste man  auch draußen schlafen, und drin wurde alles was man hatte, wurde dann eingepudert und ausgeräuchert – gewisse Zeiten mussten wir ja den Haushalt […] – kannst dir denken, was das für ein Gefühl war. Und inzwischen ist der Hans, der war ja in Niederbayern gewesen, da war er ja Bergwerker in Niederbayern, und der ist – hatten ja auch gleich geschrieben wo wir sind, und wo es ist, und dann ist der, wie er kommen durfte und eines Tages morgens tropfte bei ihm Blut durch die Matratze – die waren ja noch so dreiteilig – durch die Matratzen tropfte Blut untendurch auf sein offenes Bein, und das wurde _nie_ anerkannt. Und der wurde ja im Krieg verschüttet durch was weiß ich nicht, er hat nur gesagt, er war verschüttet.
+
+Ruth
+:	Durch eine Bombe glaube ich, oder?
+
+Käthe
+:	Ich weiß es nicht, was es war. Und es ist ja nie zugeheilt, bis jetzt, wo er nicht mehr dran kommt. [Sie bezieht sich vermutlich auf Hansens schlechten Gesundheitszustand]
+
+Ruth
+:	Ja, jetzt heilt es durch.
+
+Käthe
+:	Jetzt heilt es, ja. […] Überleg dir mal, ein ganzes Leben lang hat er damit zu tun gehabt. Und früher hat man ja auch nicht HB bestimmmt, wieviel Blutverlust der hat. Da hat kein Mensch nachgefragt, das wurde zugebunden und damit war es gut. Da war nicht so eine Wundversorgung wie man [sie] heute macht […irgendwas mit „Gedöns“ …] da hat kein Mensch nachgefragt. Und so kam das ein paar mal bei ihm, aber das war das schlimmste, wie's Blut durch die Matratze getropft ist. Die Naht – dann ist das durchgetropft.
+
+Ruth
+:	Kann ich mir vorstellen
+
+Käthe
+:	Es war [halt] dein Opa.
+
+Ruth
+:	Und wann ist dann der Papa nach Wilhemshütte gekommen?
+
+Käthe
+:	Ich weiß es nicht. Nicht lang danach. Aber der kam ja aus dem bayrische', damals waren ja noch die einzelnen Zonengrenzen, und Bayern –
+
+Friedrich
+:	– war amerikanisch und auch ihr [sic] wart amerikanisch [Friedrich bezieht sich vermutlich auf seinen damaligen Aufenthalt in Potsdam in der sowjetischen Besatzungszone]
+
+Käthe
+:	In Wetzlar waren die Franzosen^[nachgucken].
+
+Friedrich
+:	Ja, aber –
+
+Käthe
+:	In Biedenkopf weiß ich jetzt nicht
+
+Friedrich
+:	In Biedenkopf waren auch die Amerikaner. 
+
+Ruth
+:	Die Amerikaner, gab es da auch noch dieses Camp später…
+
+Friedrich
+:	Die Amerikaner waren dort, und die … die Franzosen, das war ja nur der Zipfel [„Zippel“] bis da hoch, weil der zu –
+
+Käthe
+:	Wetzlar waren Marokkaner^[Sie meint vermutlich französische Kolonialtruppen, die im Nachgang des Krieges auch in Deutschland eingesetzt wurden]
+
+Friedrich
+:	Weil das zu Westhessen-Nassau zählte^[Das „moderne“ Hessen entstand erst in der Nachkriegszeit durch Fusion von Teilen beider Hessen, unter Ausschluss des heute Rheinland-Pfalz gehörenden Rheinhessen] das war die frühere deutsche Bezeichnung, Westhessen-Nassau, das ging bis Darmstadt hier unten rum. Aber die haben den Rhein als Grenze genommen –
+
+Käthe
+:	Dadurch konnte der Hans wahrscheinlich besser, schneller kommen–
+
+Friedrich
+:	– den Westerwald haben die Amerikaner gesagt, den brauchen wir nicht, und auch nicht so die Eifel, dann haben sie das den Franzosen überlassen.
+
+Käthe
+:	Und in der Bess ihrem Wohnzimmer wurde ein Nagel an die Wand gekloppt, und eine Kordel genommen und da haben wir unsere ganze Garderobe, unser ganzes Hab und Gut drangehängt. Und ein Bettlaken, wir haben einiges von der Ev-Tante gekriegt. Weil wir ja garnix hatten. 21:32
