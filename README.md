@@ -43,12 +43,13 @@ Sinn und Zweck der Dateieien:
  - `metadata.yaml` enthält separat die Metadaten des Dokumentes
  - `style.css` enthält die Formatierung der HTML-Datei
  - Im Order `vorlagen/` sind die Templates, auf denen basierend die Ausgabedateien erzeugt werden, gespeichert; `html.xhtml` für die HTML und `latex.tex` für die beiden auf (Xe)Latex basierenden PDFs.
+ - Der Ordner `bilder/` enthält drei Bilder, unter anderem das Titelbild. `latex_out/` ist ein Zwischenspeicher für den Latex-Code, und `tex2pdf.8476` entsteht automatisch bei der Verwendung von `build_latex1.bat` (siehe unten)
 
 Sämtliche Ausgaben erfolgen in den `out/`-Ordner:
 
  - `build_html.bat` erzeugt die XHTML-Datei
  - `build_latex1.bat` erzeugt eine rohe PDF direkt über Pandoc
- - `build_txt.bat` erzeugt eine reine Textdatei – für Rechtschreibkorrektur und Wörterzählen in Word ö.ä.
+ - `build_txt.bat` erzeugt eine reine Textdatei – für Rechtschreibkorrektur und Wörterzählen in Word o.ä.
  - `build_latexvorlage.bat` stellt die Basis für weitere Latex-Ausgaben; es nimmt als Parameter `%1` die Anzahl der Spalten des Layouts, `%2` die Ausrichtung (Quer/Hochkant = `landscape`/`portrait`) und `%3` ob eine Titelseite erstellt werden soll (`nicetitle`) oder nicht (beliebiger anderer Wert) **NICHT DIREKT BENUTZEN**
  - `build_latexportrait.bat` baut das PDF in hochkant
  - `build_latexlandscape.bat` baut das PDF in quer
