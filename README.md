@@ -37,7 +37,12 @@ benutzt. Zur PDF-Erstellung ist weiters xelatex notwendig, ich empfehle die Dist
 	compiled with uriparser version 0.8.4
 	compiled with zlib version 1.2.11; using 1.2.11
 
-`teil01.md` bis `teil05.md` korrespondieren mit den entsprechenden 5 Audiodateien, `teil01.md` enthält zusätzlich die Einleitung. `metadata.yaml` enthält separat die Metadaten des Dokumentes. `style.css` enthält die Formatierung der HTML-Datei. Im Order `vorlagen/` sind die Templates, auf denen basierend die Ausgabedateien erzeugt werden, gespeichert; `html.xhtml` für die HTML und `latex.tex` für die beiden auf (Xe)Latex basierenden PDFs.
+Sinn und Zweck der Dateieien:
+
+ - `teil01.md` bis `teil05.md` korrespondieren mit den entsprechenden 5 Audiodateien, `teil01.md` enthält zusätzlich die Einleitung
+ - `metadata.yaml` enthält separat die Metadaten des Dokumentes
+ - `style.css` enthält die Formatierung der HTML-Datei
+ - Im Order `vorlagen/` sind die Templates, auf denen basierend die Ausgabedateien erzeugt werden, gespeichert; `html.xhtml` für die HTML und `latex.tex` für die beiden auf (Xe)Latex basierenden PDFs.
 
 Sämtliche Ausgaben erfolgen in den `out/`-Ordner:
 
