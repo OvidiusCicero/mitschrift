@@ -1,4 +1,6 @@
-Zum Kompilieren ist [Pandoc](https://pandoc.org/) nötig: 
+_Es reicht aus, die unten aufgeführte Software installiert zu haben, der Rest geschieht durch die Batch-Dateien._ Sämtliche benötigten Komponenten, die hier verlinkt sind, sind freie Software.
+
+Zum Kompilieren ist zuallererst [Pandoc](https://pandoc.org/) nötig: 
 
 	pandoc 2.0.5
 	Compiled with pandoc-types 1.17.3, texmath 0.10, skylighting 0.5
@@ -45,3 +47,5 @@ Sämtliche Ausgaben erfolgen in den `out/`-Ordner:
  - `build_latexvorlage.bat` stellt die Basis für weitere Latex-Ausgaben; es nimmt als Parameter `%1` die Anzahl der Spalten des Layouts, `%2` die Ausrichtung (Quer/Hochkant = `landscape`/`portrait`) und `%3` ob eine Titelseite erstellt werden soll (`nicetitle`) oder nicht (beliebiger anderer Wert) **NICHT DIREKT BENUTZEN**
  - `build_latexportrait.bat` baut das PDF in hochkant
  - `build_latexlandscape.bat` baut das PDF in quer
+ 
+Zu guter Letzt müssen auf dem System die [Libertine-Schriftarten](http://libertine-fonts.org/) installiert sein, die Erzeugung der PDF-Dateien scheitert leider ansonsten hässlich und hilfreiche Fehlermeldung. Grund für die Verwendung dieser Nicht-Standardschriftart sind unter anderem die manuell angepassten Kapitälchen sowie die anderweitig vorhandenen Schriftschnitte.
