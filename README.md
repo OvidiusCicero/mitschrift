@@ -45,7 +45,7 @@ Sinn und Zweck der Dateieien:
  - Im Order `vorlagen/` sind die Templates, auf denen basierend die Ausgabedateien erzeugt werden, gespeichert; `html.xhtml` für die HTML und `latex.tex` für die beiden auf (Xe)Latex basierenden PDFs.
  - Der Ordner `bilder/` enthält drei Bilder, unter anderem das Titelbild. `latex_out/` ist ein Zwischenspeicher für den Latex-Code, und `tex2pdf.8476` entsteht automatisch bei der Verwendung von `build_latex1.bat` (siehe unten)
 
-Sämtliche Ausgaben erfolgen in den `out/`-Ordner:
+Sämtliche Ausgaben erfolgen in den `out/`-Ordner, der gegebenenfalls vorher manuell zu erstellen ist:
 
  - `build_html.bat` erzeugt die XHTML-Datei
  - `build_latex1.bat` erzeugt eine rohe PDF direkt über Pandoc
@@ -54,4 +54,4 @@ Sämtliche Ausgaben erfolgen in den `out/`-Ordner:
  - `build_latexportrait.bat` baut das PDF in hochkant
  - `build_latexlandscape.bat` baut das PDF in quer
  
-Zu guter Letzt müssen auf dem System die [Libertine-Schriftarten](http://libertine-fonts.org/) installiert sein, die Erzeugung der PDF-Dateien scheitert leider ansonsten hässlich und hilfreiche Fehlermeldung. Grund für die Verwendung dieser Nicht-Standardschriftart sind unter anderem die manuell angepassten Kapitälchen sowie die anderweitig vorhandenen Schriftschnitte.
+Zu guter Letzt müssen auf dem System die [Libertine-Schriftarten](http://libertine-fonts.org/) installiert sein, die Erzeugung der PDF-Dateien scheitert leider ansonsten hässlich und ohne hilfreiche Fehlermeldung. Grund für die Verwendung dieser Nicht-Standardschriftart sind unter anderem die manuell angepassten Kapitälchen sowie die anderweitig vorhandenen Schriftschnitte.
