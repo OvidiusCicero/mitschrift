@@ -1,3 +1,4 @@
+build_txt
 build_html
 build_latexportrait
 build_latexlandscape
