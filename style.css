@@ -17,6 +17,9 @@ body > section h2 {
 font-size: 1.25em;
 }
 
+h1, h2, h3 {
+font-family: Linux Biolinum;
+}
 
 dt {
 font-weight: bold;
