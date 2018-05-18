@@ -55,6 +55,6 @@ Sämtliche Ausgaben erfolgen in den `out/`-Ordner, der gegebenenfalls vorher man
  - `build_latexlandscape.bat` baut das PDF in quer
  - `build_latexlandscape.bat` baut das PDF in quer ohne Titelseite
  - `build_latexvorlage.bat` stellt die Basis für weitere Latex-Ausgaben; es nimmt als Parameter `%1` die Anzahl der Spalten des Layouts, `%2` die Ausrichtung (Quer/Hochkant = `landscape`/`portrait`) und `%3` ob eine Titelseite erstellt werden soll (`nicetitle`) oder nicht (beliebiger anderer Wert) **NICHT DIREKT BENUTZEN**
- - `build_base.bat` ist das Basiskommando mit Befehlen, die für alle Ausgabeformate benötigt werden
+ - `build_base.bat` ist das Basiskommando mit Befehlen, die für alle Ausgabeformate benötigt werden **NICHT DIREKT BENUTZEN**
  
 Zu guter Letzt müssen auf dem System die [Libertine-Schriftarten](http://libertine-fonts.org/) installiert sein, die Erzeugung der PDF-Dateien scheitert leider ansonsten hässlich und ohne hilfreiche Fehlermeldung. Grund für die Verwendung dieser Nicht-Standardschriftart sind unter anderem die manuell angepassten Kapitälchen sowie die anderweitig vorhandenen Schriftschnitte.

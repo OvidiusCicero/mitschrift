@@ -1,0 +1,1 @@
+build_base --to=epub --output=out/gespraech.epub --css=style.css
