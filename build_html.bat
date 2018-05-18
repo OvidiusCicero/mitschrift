@@ -1,1 +1,1 @@
-pandoc --from=markdown+yaml_metadata_block --to=html5 --output=out/gespraech.xhtml --table-of-contents  --template=vorlagen/html.xhtml --css=style.css --self-contained --standalone teil01.md teil02.md teil03.md metadata.yaml
+build_base.bat --to=html5 --self-contained --template=vorlagen/html.xhtml --output=out/gespraech.xhtml --css=style.css
