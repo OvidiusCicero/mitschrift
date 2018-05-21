@@ -28,7 +28,8 @@ $endif$
 
 \usepackage{multicol}
 \usepackage{enumitem}
-\setlist{format=\scshape}
+%\setlist{format=\scshape,\rmfamily}
+\setlist{format=\rmfamily\scshape}
 
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -54,7 +55,7 @@ $endfor$
 %$endif$
 
 $if(romanfont)$
-	\setsansfont[$for(romanfontoptions)$$romanfontoptions$$sep$,$endfor$]{$romanfont$}
+	\setromanfont[$for(romanfontoptions)$$romanfontoptions$$sep$,$endfor$]{$romanfont$}
 $endif$
 
 $if(sansfont)$
