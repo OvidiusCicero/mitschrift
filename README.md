@@ -5,6 +5,8 @@ Es werden folgende Ausgabeformate erzeugt:
  - `gespraech….pdf`: Zum Ausdrucken
  - `gespraech.txt`: Reine Textdatei, z.B. für Rechtschreibkorrektur und Wörterzählen in Word o.ä.
  - `gespraech.epub` **(experimentell)**: Für Ebook-Reader
+ 
+Zum Herunterladen jeweils die letzte Version unter <https://github.com/OvidiusCicero/mitschrift/releases>
 
 # Erzeugen
 
