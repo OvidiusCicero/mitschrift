@@ -1,5 +1,5 @@
 # Info
-Es werden als Ausgabeformate erzeugt:
+Es werden folgende Ausgabeformate erzeugt:
 
  - `gespraech.xhtml`: eine HTML-Datei, die sich der Bildschirmbreite anpasst, zum Lesen an Bildschirmen und Handys
  - `gespraech….pdf`: Zum Ausdrucken
