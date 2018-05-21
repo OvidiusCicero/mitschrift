@@ -54,7 +54,7 @@ $endfor$
 %$endif$
 
 $if(romanfont)$
-	\setromanfont{$romanfont$}
+	\setsansfont[$for(romanfontoptions)$$romanfontoptions$$sep$,$endfor$]{$romanfont$}
 $endif$
 
 $if(sansfont)$
