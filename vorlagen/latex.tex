@@ -58,9 +58,19 @@ $if(romanfont)$
 	\setromanfont[$for(romanfontoptions)$$romanfontoptions$$sep$,$endfor$]{$romanfont$}
 $endif$
 
-$if(sansfont)$
-    \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
-$endif$
+%$if(sansfont)$
+%    \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
+%$endif$
+
+%Otherwise it does not work – I know it contradicts the build file
+\setsansfont{LinBiolinum}[
+Extension=.otf,
+UprightFont=*_R,
+ItalicFont=*_RI,
+BoldFont=*_RB,
+BoldItalicFont=*_RBO,
+]
+
 $if(monofont)$
     \setmonofont[Mapping=tex-ansi$if(monofontoptions)$,$for(monofontoptions)$$monofontoptions$$sep$,$endfor$$endif$]{$monofont$}
 $endif$
