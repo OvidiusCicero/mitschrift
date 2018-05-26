@@ -1,0 +1,1 @@
+build_base.bat --to=html5 --self-contained --template=vorlagen/html.xhtml --output=out/gespraech.xhtml --css=%1 --css=style.css
