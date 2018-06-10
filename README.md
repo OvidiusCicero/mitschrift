@@ -2,7 +2,7 @@
 Es werden folgende Ausgabeformate erzeugt:
 
  - `gespraech.xhtml`: eine HTML-Datei, die sich der Bildschirmbreite anpasst, zum Lesen an Bildschirmen und Handys
- - `gespraech….pdf`: Zum Ausdrucken
+ - `gespraech….pdf`: PDFs in vier Ausführungen zum Ausdrucken
  - `gespraech.txt`: Reine Textdatei, z.B. für Rechtschreibkorrektur und Wörterzählen in Word o.ä.
  - `gespraech.epub` **(experimentell)**: Für Ebook-Reader
  
@@ -70,6 +70,7 @@ Sämtliche Ausgaben erfolgen in den `out/`-Ordner, der gegebenenfalls vorher man
  - `build_base.bat` ist das Basiskommando mit Befehlen, die für alle Ausgabeformate benötigt werden **_ERST RECHT_ NICHT DIREKT BENUTZEN**
  - `build_epub.bat` erstellt eine epub-Datei
  - `build_all.bat` würde alle obigen ausführen
-
+ - *`build.sh` das obige als Bash-Skript **Experimentell** *
+ - *`build.ps1` das obige als Powershell-Skript, funktioniert im Moment nicht wie gewünscht **Experimentell** *
  
 Zu guter Letzt müssen auf dem System die [Libertine-Schriftarten](http://libertine-fonts.org/) installiert sein, die Erzeugung der PDF-Dateien scheitert leider ansonsten hässlich und ohne hilfreiche Fehlermeldung. Grund für die Verwendung dieser Nicht-Standardschriftart sind unter anderem die manuell angepassten Kapitälchen sowie die anderweitig vorhandenen Schriftschnitte.
