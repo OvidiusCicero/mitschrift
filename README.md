@@ -5,6 +5,7 @@ Es werden folgende Ausgabeformate erzeugt:
  - `gespraech….pdf`: PDFs in vier Ausführungen zum Ausdrucken
  - `gespraech.txt`: Reine Textdatei, z.B. für Rechtschreibkorrektur und Wörterzählen in Word o.ä.
  - `gespraech.epub` **(experimentell)**: Für Ebook-Reader. Funktioniert schon, aber zumindest auf meinem Tolino werden alle Formatierungsanweisungen ignoriert
+ - `gespraech_fonts.xhtml` **(experimentell)**: Die gleiche HTML-Datei, aber mit eingebetteten Schriftarten. Im Moment viel zu groß, um sinnvoll verwendet zu werden.
  
 Zum Herunterladen jeweils die letzte Version unter <https://github.com/OvidiusCicero/mitschrift/releases>
 
