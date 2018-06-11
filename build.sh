@@ -14,8 +14,38 @@ cd ..
 cp latex_out/gespraech_$2-$3.pdf out/gespraech_$2-$3.pdf
 }
 
-function build_latexportrait-simple {
+function build_latex_portrait_simple {
 build_latexvorlage 2 portrait simple
+}
+
+function build_latex_portrait_nicetitle {
+build_latexvorlage 2 portrait nicetitle
+}
+
+function build_latex_landscape_simple {
+build_latexvorlage 3 landscape simple
+}
+
+function build_latex_landscape_nicetitle {
+build_latexvorlage 3 landscape nicetitle
+}
+
+function build_epub {
+build_base --to=epub --output=out/gespraech.epub --css=style.css
+}
+
+function build_txt {
+build_base --to=plain --output=out/gespraech.txt
+}
+
+function build_all {
+build_html
+build_txt
+build_epub
+build_latex_portrait_simple
+build_latex_portrait_nicetitle
+build_latex_landscape_simple
+build_latex_landscape_nicetitle
 }
 
 build_$1
